@@ -1,0 +1,61 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(to bottom, #021132, #021133);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.navbar-2 {
+    background-color: #051F59;
+
+}
+
+/* bank */
+.span-bank {
+    margin-top: 20px !important;
+}
+
+.bank {
+    width: 900px;
+    margin-left: 90px;
+}
+
+.hrstyle {
+    border: 1px solid #808182;
+}
+
+/* last bank */
+
+/* .icon */
+.icon-ceklis {
+    width: 300px !important;
+}
+
+/* card saldo */
+.card-saldo {
+    background: linear-gradient(to right, #C48275, #B85477);
+}
+
+.card-dompet {
+    background: linear-gradient(to right, #1AA3A0, #1E99C8);
+}
+
+/* tabs */
+.nav-pills-history .nav-link-history.active {
+    color: #fff;
+    background-color: #000000;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+.nav-link-history {
+    display: block;
+    background: grey;
+    color: rgb(255, 255, 255);
+    padding: .2rem 2rem;
+}
+
+/* table */
+.table-dark.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #070707;
+}
