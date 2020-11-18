@@ -59,3 +59,19 @@ body {
 .table-dark.table-striped tbody tr:nth-of-type(odd) {
     background-color: #070707;
 }
+
+
+.nav-custome .nav-link.active {
+    color: #fff;
+    background: linear-gradient(to bottom, #D6D6D6, #5E5E5E);
+    border-radius: 0;
+}
+
+.nav-nonactive {
+    background: linear-gradient(to bottom, #303030, #606060);
+    border-radius: 0;
+}
+
+.nav-custome .nav-nonactive {
+    border-radius: 0;
+}
