@@ -75,3 +75,8 @@ body {
 .nav-custome .nav-nonactive {
     border-radius: 0;
 }
+
+/* nav 2 */
+.nav-pills .nav-pacuan-lottery {
+    border-radius: 0;
+}
